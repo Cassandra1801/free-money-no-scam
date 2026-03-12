@@ -1,0 +1,4 @@
+com\example\freemoneynoscam\services\ValidateEmailService.class
+com\example\freemoneynoscam\FreeMoneyNoScamApplication.class
+com\example\freemoneynoscam\controllers\IndexController.class
+com\example\freemoneynoscam\models\Email.class
